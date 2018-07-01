@@ -28,3 +28,14 @@ C:\Users\akosmach\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\Sudok
 C:\Users\akosmach\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\AllTooEasy.wma
 D:\Users\AlkHilts\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\AllTooEasy.wma
 C:\Users\akosmach\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.csproj.CoreCompileInputs.cache
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\AllTooEasy.wma
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\SudokuSolver2000.exe.config
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\SudokuSolver2000.exe
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\bin\Debug\SudokuSolver2000.pdb
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.csprojResolveAssemblyReference.cache
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.frmSudokuSolver.resources
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.Properties.Resources.resources
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.csproj.GenerateResource.Cache
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.csproj.CoreCompileInputs.cache
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.exe
+D:\Google Drive\SudokuSolver2000\SudokuSolver2000\obj\Debug\SudokuSolver2000.pdb

@@ -86,7 +86,7 @@ namespace SudokuSolver2000
             load.Height = 50;
             this.Controls.Add(load);
 
-            chk.Text = "Use da shit";
+            chk.Text = "Use extra";
             chk.Location = new Point(120, 490);
             chk.BackColor = Color.White;
             chk.Checked = true;
